@@ -2,6 +2,7 @@
 
 > [!WARNING]  
 > BROKEN Authentication method not been fixed since mseminatore commented on Apr 3, 2022 At this time there is no known workaround to fix the library.
+> Last publish npm module 2 years ago
 
 [![Version](http://img.shields.io/npm/v/teslajs.png)](https://www.npmjs.org/package/teslajs)
 [![License](https://img.shields.io/npm/l/teslajs.svg)](https://github.com/mseminatore/TeslaJS/blob/master/LICENSE)
